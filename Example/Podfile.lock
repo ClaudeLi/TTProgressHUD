@@ -1,0 +1,23 @@
+PODS:
+  - MBProgressHUD (0.9.2)
+  - TTProgressHUD (0.1.0):
+    - MBProgressHUD (~> 0.9.2)
+
+DEPENDENCIES:
+  - TTProgressHUD (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  TTProgressHUD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  TTProgressHUD: 4f6c31607205c5269cf33034e90e6287a6903cb6
+
+PODFILE CHECKSUM: 7b265e4b4367d1645a1135fcb48f9bd061337eaf
+
+COCOAPODS: 1.5.3
