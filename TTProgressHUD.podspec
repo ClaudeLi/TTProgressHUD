@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TTProgressHUD'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'MBProgressHUD ~> 0.9.2'
 
 # This description is used to generate tags and improve search results.
